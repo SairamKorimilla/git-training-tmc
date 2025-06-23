@@ -11,6 +11,21 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_NYAdgFBbEfCL-78sEBHTLg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Ied7sFBbEfCL-78sEBHTLg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Ied7sFBbEfCL-78sEBHTLg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_NivMAFBJEfCtCZgaNa-r2w",
     "version" : "0.1",
     "type" : "job"
