@@ -20,4 +20,15 @@
     "version" : "Latest",
     "type" : "context"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_O_dcMGp3EemXMLEeEZYAlg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_A9NsoGp7EemXMLEeEZYAlg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
 } ]
